@@ -1,5 +1,5 @@
 # dev-environment-lab
-
+![explorer screenshot](https://64.media.tumblr.com/d1b3ffa74972b8fcf682cd25c9f96ce7/377fb8aef20fdd72-02/s500x750/b333345daf949b909de91195f9c02242e4bf165c.png)
 ## OS
 
 darwin19.0
